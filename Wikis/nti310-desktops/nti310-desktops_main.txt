@@ -1,0 +1,16 @@
+ubuntu_logo.png in git checkin
+
+^^^^^image to be added to documentation ^^^^^
+
+Why Ubuntu?
+
+Ubuntu provides a first class user environment experience on many platforms without licence fees or purchase headaches. All of this while remaining open source and supported by a global community of developers and vendors.
+
+About:
+
+Ubuntu comes with everything you need to run your organisation, school, home or enterprise. All the essential applications, like an office suite, browsers, email and media apps come pre-installed and thousands more games and applications are available in the Ubuntu Software Centre.
+Source: https://www.ubuntu.com/desktop
+
+Sources:
+
+http://releases.ubuntu.com/

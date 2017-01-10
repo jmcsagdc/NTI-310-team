@@ -1,0 +1,9 @@
+Ubuntu Setup: 
+
+1) Enter options in config file: nti310-desktops.config
+
+2) Run nti310-desktops-install
+
+3) Run nti310-desktops-tweak
+
+4) Profit
